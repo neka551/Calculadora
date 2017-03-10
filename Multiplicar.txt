@@ -1,0 +1,4 @@
+ multiplicar dos números naturales
+para poder conocer el valor resultado.
+
+2x2=4
