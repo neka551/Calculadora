@@ -1,0 +1,3 @@
+sumar dos números naturales para
+poder conocer el valor resultado.
+5 + 5 = 10
