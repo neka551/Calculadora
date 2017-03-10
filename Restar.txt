@@ -1,0 +1,4 @@
+restar dos números naturales para
+poder conocer el valor resultado
+
+8-3=5
