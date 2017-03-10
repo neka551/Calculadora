@@ -1,0 +1,4 @@
+cuándo no se puede realizar una
+resta para poder saber que me he equivocado.
+
+El número que me de tiene que ser positivo
